@@ -1,0 +1,29 @@
+{
+  "name": "20.4_Loadery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielminschinski/20.4_Loadery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielminschinski/20.4_Loadery/issues"
+  },
+  "homepage": "https://github.com/danielminschinski/20.4_Loadery#readme"
+}
